@@ -1,2 +1,6 @@
 Hello life, I am making this for practice
+<<<<<<< HEAD
 HS
+=======
+Just checking the merge conflict
+>>>>>>> 5d1c6ca833c839dc53f993f932069ca56119ff9a
